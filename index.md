@@ -1,7 +1,4 @@
-cd ~/AirlineApp/FlightRightsApp
 
-# Create a privacy policy file
-cat > PRIVACY_POLICY.md << 'EOF'
 # Privacy Policy for Flight Rights Tracker
 
 **Last Updated: February 18, 2026**
