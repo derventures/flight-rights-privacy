@@ -1,7 +1,7 @@
 
 # Privacy Policy for Flight Rights Tracker
 
-**Last Updated: February 18, 2026**
+**Last Updated: April 16, 2026**
 
 ## Overview
 
@@ -74,7 +74,7 @@ We may update this Privacy Policy from time to time. We will notify users of sig
 ## Contact Us
 
 If you have questions about this Privacy Policy, contact us at:
-- Email: rosenzweig.derek@gmail.com
+- Email: derek@der-ventures.com
 - App: Flight Rights Tracker
 
 ## Consent
